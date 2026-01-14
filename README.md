@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 QR Code Generator
 
 A simple and efficient QR Code Generator built using Python and HTML/CSS.
@@ -69,3 +70,6 @@ By Kamesh A
 
 If you like this project, don’t forget to star the repo ⭐ on GitHub!
 
+=======
+# QR-Code-Generator-App
+>>>>>>> cdd8a21e9b03d2ea5501931d90777bb64ffe12e4
