@@ -6,8 +6,6 @@ This tool allows users to enter any text or URL and instantly generate a downloa
 
 Source Reference: MV Globe
 
-🔗 Live Demo: https://qr-code-generator-by-kamesh.up.railway.app/
-
 🚀 Features
 
 Generate QR codes for text, URLs, or any custom input
@@ -37,7 +35,7 @@ qrcode library
 🧭 Steps to Run Locally
 
 1️⃣ Clone the Repository
-git clone https://github.com/Kamesh-A13/QR-Code-Generator-App.git
+git clone (https://github.com/ksmohanavelu08/QR-Code-Generator-App.git)
 cd QR-Code-Generator-App
 
 2️⃣ Create & Activate Virtual Environment (Recommended)
@@ -57,13 +55,10 @@ python app.py
 
 🌐 Deployment
 
-The project is deployed on Railway:
-🔗 https://qr-code-generator-by-kamesh.up.railway.app/
-
 👨‍💻 Developed By
 
-MVGlobe Development Team
-By Kamesh A
+MVGlobe Development
+By Mohanavelu K.S
 🌐 Visit: https://mvglobe.in
 
 ⭐ Support
